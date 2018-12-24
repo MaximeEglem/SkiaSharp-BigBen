@@ -4266,16 +4266,15 @@
         "/Users/meglem/.config/NuGet/NuGet.Config"
       ],
       "sources": {
-        "https://api.nuget.org/v3/index.json": {},
-        "https://nuget.telerik.com/nuget": {}
+        "https://api.nuget.org/v3/index.json": {}
       }
     },
     "dependencies": {
-      "Microsoft.NETCore.Portable.Compatibility": "1.0.1",
-      "NETStandard.Library": "2.0.1",
-      "SkiaSharp": "1.59.3",
-      "SkiaSharp.Views.Forms": "1.59.3",
-      "Xamarin.Forms": "2.5.0.280555"
+      "Microsoft.NETCore.Portable.Compatibility": "[1.0.1, )",
+      "NETStandard.Library": "[2.0.1, )",
+      "SkiaSharp": "[1.59.3, )",
+      "SkiaSharp.Views.Forms": "[1.59.3, )",
+      "Xamarin.Forms": "[2.5.0.280555, )"
     },
     "frameworks": {
       "netstandard1.4": {}
